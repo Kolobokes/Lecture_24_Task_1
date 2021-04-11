@@ -9,9 +9,9 @@
 Сценарий № 1:
 
 - открыть сайт https://netology.ru
-- нажать на картинку ![НЕО для начинающих](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_8.png "НЕО для начинающих")
-- выбрать из списка курс ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png "Тестировщик ПО")
-- нажать на кнопку ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_10.png "Записаться")
+- нажать на картинку ![НЕО для начинающих](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_8.png)
+- выбрать из списка курс ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png)
+- нажать на кнопку ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_10.png)
 
 Сценарий № 2:
 
