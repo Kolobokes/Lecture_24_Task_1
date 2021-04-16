@@ -1,117 +1,308 @@
 # План автоматизации тестирования записи на курс "Профессия Тестировщик" #
 
-**Тестируемый ресур:** https://netology.ru
+**Тестируемый ресур:** https://netology.ru.
 
 **Предмет тестирования:** возможные способы перехода к форме записи и заполнение формы записи на курс "Профессия Тестировщик".
+**Цель тестирования:** проверить работоспособность способов перехода к форме записи и заполнения формы записи.
 
-## Сценраии перехода к форме записи, подлежащие автоматизации ##
+## Сценраии перехода к форме записи, подлежащие автоматизации тестирования ##
 
 Сценарий № 1:
 
-- открыть сайт https://netology.ru
-- нажать на картинку "НЕО для начинающих" ![НЕО для начинающих](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_8.png)
-- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png)
-- нажать на первую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_10.png)
+Шаги:
+- открыть сайт https://netology.ru;
+- нажать на картинку "НЕО для начинающих" ![НЕО для начинающих](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_8.png);
+- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png);
+- нажать на первую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_10.png).
+
+Ожидаемый результат: произошел переход на страницу https://netology.ru/programs/qa# , на экране форма "Запишитесь или получите консультацию".
 
 Сценарий № 1/2:
 
-- открыть сайт https://netology.ru
-- нажать на картинку "НЕО для начинающих" ![НЕО для начинающих](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_8.png)
-- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png)
-- нажать на вторую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_16.png)
+Шаги:
+- открыть сайт https://netology.ru;
+- нажать на картинку "НЕО для начинающих" ![НЕО для начинающих](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_8.png);
+- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png);
+- нажать на вторую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_16.png).
+
+Ожидаемый результат: произошел переход на страницу https://netology.ru/programs/qa# , на экране форма "Запишитесь или получите консультацию".
 
 Сценарий № 1/3:
 
-- открыть сайт https://netology.ru
-- нажать на картинку "НЕО для начинающих" ![НЕО для начинающих](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_8.png)
-- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png)
-- нажать на третью кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_17.png)
+Шаги:
+- открыть сайт https://netology.ru;
+- нажать на картинку "НЕО для начинающих" ![НЕО для начинающих](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_8.png);
+- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png);
+- нажать на третью кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_17.png).
+
+Ожидаемый результат: произошел переход на страницу https://netology.ru/programs/qa# , на экране форма "Запишитесь или получите консультацию".
 
 Сценарий № 2:
 
-- открыть сайт https://netology.ru
-- нажать на кнопку "Каталог курсов" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_11.png)
-- выбрать в левой колонке раздел "Программирование", а в правой колонке "Профессия Тестировщик" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_12.png)
-- нажать на первую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_10.png)
+Шаги:
+- открыть сайт https://netology.ru;
+- нажать на кнопку "Каталог курсов" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_11.png);
+- выбрать в левой колонке раздел "Программирование", а в правой колонке "Профессия Тестировщик" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_12.png);
+- нажать на первую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_10.png).
+
+Ожидаемый результат: произошел переход на страницу https://netology.ru/programs/qa# , на экране форма "Запишитесь или получите консультацию".
 
 Сценарий № 2/2:
 
-- открыть сайт https://netology.ru
-- нажать на кнопку "Каталог курсов" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_11.png)
-- выбрать в левой колонке раздел "Программирование", а в правой колонке "Профессия Тестировщик" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_12.png)
-- нажать на вторую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_16.png)
+Шаги:
+- открыть сайт https://netology.ru;
+- нажать на кнопку "Каталог курсов" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_11.png);
+- выбрать в левой колонке раздел "Программирование", а в правой колонке "Профессия Тестировщик" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_12.png);
+- нажать на вторую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_16.png).
+
+Ожидаемый результат: произошел переход на страницу https://netology.ru/programs/qa# , на экране форма "Запишитесь или получите консультацию".
 
 Сценарий № 2/3:
 
-- открыть сайт https://netology.ru
-- нажать на кнопку "Каталог курсов" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_11.png)
-- выбрать в левой колонке раздел "Программирование", а в правой колонке "Профессия Тестировщик" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_12.png)
-- нажать на третью кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_17.png)
+Шаги:
+- открыть сайт https://netology.ru;
+- нажать на кнопку "Каталог курсов" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_11.png);
+- выбрать в левой колонке раздел "Программирование", а в правой колонке "Профессия Тестировщик" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_12.png);
+- нажать на третью кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_17.png).
+
+Ожидаемый результат: произошел переход на страницу https://netology.ru/programs/qa# , на экране форма "Запишитесь или получите консультацию".
 
 Сценарий № 3:
 
-- открыть сайт https://netology.ru
-- выбрать в разделе "Изучайте актуальные темы" - "Программирование" ![Программирование](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_13.png)
-- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png)
-- нажать на первую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_10.png)
+Шаги:
+- открыть сайт https://netology.ru;
+- выбрать в разделе "Изучайте актуальные темы" - "Программирование" ![Программирование](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_13.png);
+- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png);
+- нажать на первую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_10.png).
+
+Ожидаемый результат: произошел переход на страницу https://netology.ru/programs/qa# , на экране форма "Запишитесь или получите консультацию".
 
 Сценарий № 3/2:
 
-- открыть сайт https://netology.ru
-- выбрать в разделе "Изучайте актуальные темы" - "Программирование" ![Программирование](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_13.png)
-- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png)
-- нажать на вторую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_16.png)
+Шаги:
+- открыть сайт https://netology.ru;
+- выбрать в разделе "Изучайте актуальные темы" - "Программирование" ![Программирование](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_13.png);
+- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png);
+- нажать на вторую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_16.png).
+
+Ожидаемый результат: произошел переход на страницу https://netology.ru/programs/qa# , на экране форма "Запишитесь или получите консультацию".
 
 Сценарий № 3/3:
 
-- открыть сайт https://netology.ru
-- выбрать в разделе "Изучайте актуальные темы" - "Программирование" ![Программирование](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_13.png)
-- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png)
-- нажать на третью кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_17.png)
+Шаги:
+- открыть сайт https://netology.ru;
+- выбрать в разделе "Изучайте актуальные темы" - "Программирование" ![Программирование](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_13.png);
+- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png);
+- нажать на третью кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_17.png).
+
+Ожидаемый результат: произошел переход на страницу https://netology.ru/programs/qa# , на экране форма "Запишитесь или получите консультацию".
 
 Сценарий № 4:
 
-- открыть сайт https://netology.ru
-- нажать на кнопку "Выбрать курс" ![Выбрать курс](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_14.png)
-- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png)
-- нажать на первую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_10.png)
+Шаги:
+- открыть сайт https://netology.ru;
+- нажать на кнопку "Выбрать курс" ![Выбрать курс](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_14.png);
+- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png);
+- нажать на первую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_10.png).
+
+Ожидаемый результат: произошел переход на страницу https://netology.ru/programs/qa# , на экране форма "Запишитесь или получите консультацию".
 
 Сценарий № 4/2:
 
-- открыть сайт https://netology.ru
-- нажать на кнопку "Выбрать курс" ![Выбрать курс](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_14.png)
-- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png)
-- нажать на вторую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_16.png)
+Шаги:
+- открыть сайт https://netology.ru;
+- нажать на кнопку "Выбрать курс" ![Выбрать курс](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_14.png);
+- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png);
+- нажать на вторую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_16.png).
+
+Ожидаемый результат: произошел переход на страницу https://netology.ru/programs/qa# , на экране форма "Запишитесь или получите консультацию".
 
 Сценарий № 4/3:
 
-- открыть сайт https://netology.ru
-- нажать на кнопку "Выбрать курс" ![Выбрать курс](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_14.png)
-- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png)
-- нажать на третью кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_17.png)
+Шаги:
+- открыть сайт https://netology.ru;
+- нажать на кнопку "Выбрать курс" ![Выбрать курс](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_14.png);
+- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png);
+- нажать на третью кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_17.png).
+
+Ожидаемый результат: произошел переход на страницу https://netology.ru/programs/qa# , на экране форма "Запишитесь или получите консультацию".
 
 Сценарий № 5:
 
-- открыть сайт https://netology.ru
-- нажать на кнопку в конце начальной страницы "Каталог курсов" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_15.png)
-- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png)
-- нажать на первую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_10.png)
+Шаги:
+- открыть сайт https://netology.ru;
+- нажать на кнопку в конце начальной страницы "Каталог курсов" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_15.png);
+- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png);
+- нажать на первую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_10.png).
+
+Ожидаемый результат: произошел переход на страницу https://netology.ru/programs/qa# , на экране форма "Запишитесь или получите консультацию".
 
 Сценарий № 5/2:
 
-- открыть сайт https://netology.ru
-- нажать на кнопку в конце начальной страницы "Каталог курсов" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_15.png)
-- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png)
-- нажать на вторую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_16.png)
+Шаги:
+- открыть сайт https://netology.ru;
+- нажать на кнопку в конце начальной страницы "Каталог курсов" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_15.png);
+- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png);
+- нажать на вторую кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_16.png).
+
+Ожидаемый результат: произошел переход на страницу https://netology.ru/programs/qa# , на экране форма "Запишитесь или получите консультацию".
 
 Сценарий № 5/3:
 
-- открыть сайт https://netology.ru
-- нажать на кнопку в конце начальной страницы "Каталог курсов" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_15.png)
-- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png)
-- нажать на третью кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_17.png))
+Шаги:
+- открыть сайт https://netology.ru;
+- нажать на кнопку в конце начальной страницы "Каталог курсов" ![Каталог курсов](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_15.png);
+- выбрать из списка курс "Тестировщик ПО" ![Тестировщик ПО](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_9.png);
+- нажать на третью кнопку "Записаться" ![Записаться](https://github.com/Kolobokes/Lecture_24_Task_1/blob/master/pictures/Screenshot_17.png)).
 
+Ожидаемый результат: произошел переход на страницу https://netology.ru/programs/qa# , на экране форма "Запишитесь или получите консультацию".
 
+## Сценраии заполнения формы записи, подлежащие автоматизации тестирования ##
 
+Сценарий № 1:
 
+Шаги:
+- заполнить поле "Имя" русскими буквами от 2 до 20 символов;
+- заполнить поле "Телефон" по шаблону: "+7""10 любых цифр";
+- нажать кнопку "Записаться".
 
+Ожидаемый результат: запись прошла успешно. Получено сообщение об успешной записи.
+
+Сценарий № 2:
+
+Шаги:
+- заполнить поле "Имя" латинскими буквами от 2 до 20 символов;
+- заполнить поле "Телефон" по шаблону: "+7""10 любых цифр";
+- нажать кнопку "Записаться".
+
+Ожидаемый результат: запись прошла успешно. Получено сообщение об успешной записи.
+
+Сценарий № 3:
+
+Шаги:
+- заполнить поле "Имя" буквами не относящимися к русскому или латинскому алфавиту от 2 до 20 символов;
+- заполнить поле "Телефон" по шаблону: "+7""10 любых цифр";
+- нажать кнопку "Записаться".
+
+Ожидаемый результат: запись не произошла. Получено сообщение о необходимости исправить "Имя".
+
+Сценарий № 4:
+
+Шаги:
+- заполнить поле "Имя" 1 русской буквой;
+- заполнить поле "Телефон" по шаблону: "+7""10 любых цифр";
+- нажать кнопку "Записаться".
+
+Ожидаемый результат: запись не произошла. Получено сообщение о необходимости исправить "Имя".
+
+Сценарий № 5:
+
+Шаги:
+- заполнить поле "Имя" русскими буквами и знаком "-" от 2 до 20 символов;
+- заполнить поле "Телефон" по шаблону: "+7""10 любых цифр";
+- нажать кнопку "Записаться".
+
+Ожидаемый результат: запись прошла успешно. Получено сообщение об успешной записи.
+
+Сценарий № 6:
+
+Шаги:
+- заполнить поле "Телефон" по шаблону: "+7""10 любых цифр";
+- нажать кнопку "Записаться".
+
+Ожидаемый результат: запись не произошла. Получено сообщение об обязательном заполнении поля "Имя".
+
+Сценарий № 7:
+
+Шаги:
+- заполнить поле "Имя" русскими буквами и цифрами от 2 до 20 символов;
+- заполнить поле "Телефон" по шаблону: "+7""10 любых цифр";
+- нажать кнопку "Записаться".
+
+Ожидаемый результат: запись не произошла. Получено сообщение "Должно состоять из букв".
+
+Сценарий № 8:
+
+Шаги:
+- заполнить поле "Имя" русскими буквами и знаками от 2 до 20 символов;
+- заполнить поле "Телефон" по шаблону: "+7""10 любых цифр";
+- нажать кнопку "Записаться".
+
+Ожидаемый результат: запись не произошла. Получено сообщение "Должно состоять из букв".
+
+Сценарий № 9:
+
+Шаги:
+- заполнить поле "Имя" русскими буквами от 2 до 20 символов;
+- заполнить поле "Телефон" любыми 11 цифрами;
+- нажать кнопку "Записаться".
+
+Ожидаемый результат: запись прошла успешно. Получено сообщение об успешной записи.
+
+Сценарий № 10:
+
+Шаги:
+- заполнить поле "Имя" русскими буквами от 2 до 20 символов;
+- заполнить поле "Телефон" 11 символами с использованием цифр и знаков "-";
+- нажать кнопку "Записаться".
+
+Ожидаемый результат: запись прошла успешно. Получено сообщение об успешной записи.
+
+Сценарий № 11:
+
+Шаги:
+- заполнить поле "Имя" русскими буквами от 2 до 20 символов;
+- заполнить поле "Телефон" 15 или более цифрами;
+- нажать кнопку "Записаться".
+
+Ожидаемый результат: запись не произошла. Получено сообщение "Номер в формате +9(999)999-99-99".
+
+Сценарий № 12:
+
+Шаги:
+- заполнить поле "Имя" русскими буквами от 2 до 20 символов;
+- заполнить поле "Телефон" менее, чем 9 цифрами;
+- нажать кнопку "Записаться".
+
+Ожидаемый результат: запись не произошла. Получено сообщение "Номер в формате +9(999)999-99-99".
+
+Сценарий № 13:
+
+Шаги:
+- заполнить поле "Имя" русскими буквами от 2 до 20 символов;
+- нажать кнопку "Записаться".
+
+Ожидаемый результат: запись не произошла. Получено сообщение "Обязательное поле".
+
+## Перечень используемых инструментов ##
+
+- Selenide 5.20.1;
+- JUnit Jupiter 5.7.1;
+- Java Faker 1.0.2;
+- Java 11;
+- Gradle;
+- google chrome, fire fox, opera, safari.
+
+Выбор данных инструментов обусловлен необходимостью обеспечения качестенного написания и проведения тестов.
+
+## Необходимые доступы и разрешения ##
+
+- разрешение на автоматизированное тестирование сайта https://netology.ru;
+- требования к заполнению формы записи;
+- набор тестовы данных (при наличии);
+- наличие специального признака в форме записи для отделения тестовых записей от реальных;
+- доступ к базе данных куда попадает информация о записях.
+
+## Риски при автоматизации ##
+
+- так как тестирование будет проводиться на рабочем сайте, то это приведет к дополнительной нагрузке на сайта и искажении статистики посещаемости и записи;
+- в базу попадет некоторый объем информации о тестовых записях, которые подлежат отдельной обработке и последующему удалению;
+- при появлении новых способов перехода к форме записи или изменеии самой формы записи потребуется корректировка тестовых сценариев и самих тестов.
+
+## Перечень необходимых специалистов ##
+
+- специалист по автоматизированному тестированию.
+
+## Оценка сроков автоматизации ##
+
+Автоматизация описанных сценариев и их запуск займет от 40 до 64 часов.
